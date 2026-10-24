@@ -59,11 +59,4 @@ A beginner-friendly Python data analytics project with a Streamlit dashboard, SQ
 - If `python` is not recognised, try `py` in place of `python`.
 - If packages fail to install, check internet connectivity and confirm the terminal is using the same Python installation as VS Code.
 - If Streamlit command is not found, use `python -m streamlit run dashboard.py`.
-- Do not close the terminal while the dashboard is running.
-
-## Before submission
-- Replace the synthetic dataset with an approved real/public dataset if your faculty requires it.
-- Run the dashboard and capture screenshots into `screenshots/`.
-- Review actual output and update the report with the figures you observe.
-- Confirm the required submission format with your faculty.
-- Explain the limitations of the forecasting model and assumed cost data honestly.
+- Do not close the terminal while the dashboard is running 
