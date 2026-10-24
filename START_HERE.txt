@@ -1,0 +1,17 @@
+SMART RETAIL ANALYTICS — QUICK START (Windows)
+
+1) Extract the ZIP.
+2) Open the Smart_Retail_Analytics_Project folder in VS Code.
+3) Terminal > New Terminal.
+4) Run:
+   python -m venv .venv
+   .\.venv\Scripts\activate
+   python -m pip install -r requirements.txt
+5) Run the analysis:
+   python analysis.py
+6) Start the dashboard:
+   python -m streamlit run dashboard.py
+7) Keep the terminal open; the dashboard opens in a browser.
+
+If 'python' does not work, try 'py' instead.
+The included CSV is synthetic practice data. Confirm faculty rules before submission.
